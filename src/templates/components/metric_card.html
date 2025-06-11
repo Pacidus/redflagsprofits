@@ -1,0 +1,32 @@
+<!-- Metric cards -->
+{% set metric_cards = [ { 'id': 'wealth', 'value': '$' +
+(dashboard.total_wealth_trillions | number(1)) + 'T', 'label': 'Total
+Billionaire Wealth', 'change': '+' + (dashboard.wealth_increase_pct | number(1))
++ '% since ' + dashboard.data_start_date.strftime('%Y-%m-%d'), 'sparkline':
+dashboard.background_sparklines.total_wealth }, { 'id': 'count', 'value':
+"%.0f"|format(dashboard.billionaire_count), 'label': 'Number of Billionaires',
+'change': '+' + dashboard.billionaire_increase_count|string + ' since ' +
+dashboard.data_start_date.strftime('%Y-%m-%d'), 'sparkline':
+dashboard.background_sparklines.billionaire_count }, { 'id': 'average', 'value':
+'$' + (dashboard.average_wealth_billions | number(1)) + 'B', 'label': 'Average
+Fortune', 'change': '+' + (dashboard.avg_wealth_increase_pct | number(1)) + '%
+since ' + dashboard.data_start_date.strftime('%Y-%m-%d'), 'sparkline':
+dashboard.background_sparklines.average_wealth }, { 'id': 'growth', 'value':
+(dashboard.doubling_time | number(1)) + ' years', 'label': 'Doubling Time',
+'change': 'At ' + (dashboard.growth_rate | number(1)) + '% annual growth
+(CAGR)', 'sparkline': none } ] %} {% for card in metric_cards %}
+<div
+  class="metric-card {{ 'has-sparkline ' + card.id + '-card' if card.sparkline else card.id + '-card' }}"
+  {%
+  if
+  card.sparkline
+  %}style="background-image: url('{{ card.sparkline }}')"
+  {%
+  endif
+  %}
+>
+  <span class="metric-value">{{ card.value }}</span>
+  <div class="metric-label">{{ card.label }}</div>
+  <div class="metric-change">{{ card.change }}</div>
+</div>
+{% endfor %}
