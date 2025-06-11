@@ -1,0 +1,17 @@
+[
+  {
+    "comparison": "Median US Households",
+    "value": "215 million",
+    "context": "Annual household income"
+  },
+  {
+    "comparison": "Median Workers",
+    "value": "284 million",
+    "context": "Annual salaries"
+  },
+  {
+    "comparison": "Average US Workers",
+    "value": "7 million",
+    "context": "Lifetime careers"
+  }
+]

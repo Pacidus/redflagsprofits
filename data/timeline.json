@@ -1,0 +1,302 @@
+[
+  {
+    "date": "2024-01-01",
+    "total_wealth": 11.1,
+    "billionaire_count": 2599,
+    "average_wealth": 4.27
+  },
+  {
+    "date": "2024-01-08",
+    "total_wealth": 11.2,
+    "billionaire_count": 2602,
+    "average_wealth": 4.29
+  },
+  {
+    "date": "2024-01-15",
+    "total_wealth": 11.2,
+    "billionaire_count": 2605,
+    "average_wealth": 4.31
+  },
+  {
+    "date": "2024-01-22",
+    "total_wealth": 11.3,
+    "billionaire_count": 2608,
+    "average_wealth": 4.33
+  },
+  {
+    "date": "2024-01-29",
+    "total_wealth": 11.3,
+    "billionaire_count": 2611,
+    "average_wealth": 4.34
+  },
+  {
+    "date": "2024-02-05",
+    "total_wealth": 11.4,
+    "billionaire_count": 2614,
+    "average_wealth": 4.36
+  },
+  {
+    "date": "2024-02-12",
+    "total_wealth": 11.5,
+    "billionaire_count": 2617,
+    "average_wealth": 4.38
+  },
+  {
+    "date": "2024-02-19",
+    "total_wealth": 11.5,
+    "billionaire_count": 2620,
+    "average_wealth": 4.4
+  },
+  {
+    "date": "2024-02-26",
+    "total_wealth": 11.6,
+    "billionaire_count": 2623,
+    "average_wealth": 4.41
+  },
+  {
+    "date": "2024-03-04",
+    "total_wealth": 11.6,
+    "billionaire_count": 2626,
+    "average_wealth": 4.43
+  },
+  {
+    "date": "2024-03-11",
+    "total_wealth": 11.7,
+    "billionaire_count": 2629,
+    "average_wealth": 4.45
+  },
+  {
+    "date": "2024-03-18",
+    "total_wealth": 11.8,
+    "billionaire_count": 2632,
+    "average_wealth": 4.47
+  },
+  {
+    "date": "2024-03-25",
+    "total_wealth": 11.8,
+    "billionaire_count": 2635,
+    "average_wealth": 4.49
+  },
+  {
+    "date": "2024-04-01",
+    "total_wealth": 11.9,
+    "billionaire_count": 2638,
+    "average_wealth": 4.5
+  },
+  {
+    "date": "2024-04-08",
+    "total_wealth": 11.9,
+    "billionaire_count": 2641,
+    "average_wealth": 4.52
+  },
+  {
+    "date": "2024-04-15",
+    "total_wealth": 12.0,
+    "billionaire_count": 2644,
+    "average_wealth": 4.54
+  },
+  {
+    "date": "2024-04-22",
+    "total_wealth": 12.1,
+    "billionaire_count": 2647,
+    "average_wealth": 4.56
+  },
+  {
+    "date": "2024-04-29",
+    "total_wealth": 12.1,
+    "billionaire_count": 2650,
+    "average_wealth": 4.57
+  },
+  {
+    "date": "2024-05-06",
+    "total_wealth": 12.2,
+    "billionaire_count": 2653,
+    "average_wealth": 4.59
+  },
+  {
+    "date": "2024-05-13",
+    "total_wealth": 12.2,
+    "billionaire_count": 2656,
+    "average_wealth": 4.61
+  },
+  {
+    "date": "2024-05-20",
+    "total_wealth": 12.3,
+    "billionaire_count": 2659,
+    "average_wealth": 4.63
+  },
+  {
+    "date": "2024-05-27",
+    "total_wealth": 12.4,
+    "billionaire_count": 2662,
+    "average_wealth": 4.64
+  },
+  {
+    "date": "2024-06-03",
+    "total_wealth": 12.4,
+    "billionaire_count": 2665,
+    "average_wealth": 4.66
+  },
+  {
+    "date": "2024-06-10",
+    "total_wealth": 12.5,
+    "billionaire_count": 2668,
+    "average_wealth": 4.68
+  },
+  {
+    "date": "2024-06-17",
+    "total_wealth": 12.5,
+    "billionaire_count": 2671,
+    "average_wealth": 4.69
+  },
+  {
+    "date": "2024-06-24",
+    "total_wealth": 12.6,
+    "billionaire_count": 2674,
+    "average_wealth": 4.71
+  },
+  {
+    "date": "2024-07-01",
+    "total_wealth": 12.7,
+    "billionaire_count": 2677,
+    "average_wealth": 4.73
+  },
+  {
+    "date": "2024-07-08",
+    "total_wealth": 12.7,
+    "billionaire_count": 2680,
+    "average_wealth": 4.75
+  },
+  {
+    "date": "2024-07-15",
+    "total_wealth": 12.8,
+    "billionaire_count": 2683,
+    "average_wealth": 4.76
+  },
+  {
+    "date": "2024-07-22",
+    "total_wealth": 12.8,
+    "billionaire_count": 2686,
+    "average_wealth": 4.78
+  },
+  {
+    "date": "2024-07-29",
+    "total_wealth": 12.9,
+    "billionaire_count": 2689,
+    "average_wealth": 4.8
+  },
+  {
+    "date": "2024-08-05",
+    "total_wealth": 13.0,
+    "billionaire_count": 2692,
+    "average_wealth": 4.81
+  },
+  {
+    "date": "2024-08-12",
+    "total_wealth": 13.0,
+    "billionaire_count": 2695,
+    "average_wealth": 4.83
+  },
+  {
+    "date": "2024-08-19",
+    "total_wealth": 13.1,
+    "billionaire_count": 2698,
+    "average_wealth": 4.85
+  },
+  {
+    "date": "2024-08-26",
+    "total_wealth": 13.1,
+    "billionaire_count": 2701,
+    "average_wealth": 4.86
+  },
+  {
+    "date": "2024-09-02",
+    "total_wealth": 13.2,
+    "billionaire_count": 2704,
+    "average_wealth": 4.88
+  },
+  {
+    "date": "2024-09-09",
+    "total_wealth": 13.3,
+    "billionaire_count": 2707,
+    "average_wealth": 4.9
+  },
+  {
+    "date": "2024-09-16",
+    "total_wealth": 13.3,
+    "billionaire_count": 2710,
+    "average_wealth": 4.92
+  },
+  {
+    "date": "2024-09-23",
+    "total_wealth": 13.4,
+    "billionaire_count": 2713,
+    "average_wealth": 4.93
+  },
+  {
+    "date": "2024-09-30",
+    "total_wealth": 13.4,
+    "billionaire_count": 2716,
+    "average_wealth": 4.95
+  },
+  {
+    "date": "2024-10-07",
+    "total_wealth": 13.5,
+    "billionaire_count": 2719,
+    "average_wealth": 4.97
+  },
+  {
+    "date": "2024-10-14",
+    "total_wealth": 13.6,
+    "billionaire_count": 2722,
+    "average_wealth": 4.98
+  },
+  {
+    "date": "2024-10-21",
+    "total_wealth": 13.6,
+    "billionaire_count": 2725,
+    "average_wealth": 5.0
+  },
+  {
+    "date": "2024-10-28",
+    "total_wealth": 13.7,
+    "billionaire_count": 2728,
+    "average_wealth": 5.01
+  },
+  {
+    "date": "2024-11-04",
+    "total_wealth": 13.7,
+    "billionaire_count": 2731,
+    "average_wealth": 5.03
+  },
+  {
+    "date": "2024-11-11",
+    "total_wealth": 13.8,
+    "billionaire_count": 2734,
+    "average_wealth": 5.05
+  },
+  {
+    "date": "2024-11-18",
+    "total_wealth": 13.9,
+    "billionaire_count": 2737,
+    "average_wealth": 5.06
+  },
+  {
+    "date": "2024-11-25",
+    "total_wealth": 13.9,
+    "billionaire_count": 2740,
+    "average_wealth": 5.08
+  },
+  {
+    "date": "2024-12-02",
+    "total_wealth": 14.0,
+    "billionaire_count": 2743,
+    "average_wealth": 5.1
+  },
+  {
+    "date": "2024-12-09",
+    "total_wealth": 14.0,
+    "billionaire_count": 2746,
+    "average_wealth": 5.11
+  }
+]
