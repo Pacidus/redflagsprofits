@@ -1,9 +1,38 @@
 {
-  "last_updated": "2025-01-15T12:00:00Z",
-  "data_start_date": "2024-01-01",
-  "data_end_date": "2025-01-15",
-  "data_points": 50,
-  "data_days_span": 380,
-  "version": "1.0",
-  "generated_by": "sample-data-generator"
+  "last_updated": "2025-06-11T15:02:51.640776Z",
+  "data_start_date": "2019-08-15",
+  "data_end_date": "2025-06-05",
+  "data_points": 1889,
+  "data_days_span": 2121,
+  "version": "2.0",
+  "generated_by": "enhanced-red-flags-analyzer",
+  "analysis_features": [
+    "exponential_trend_fitting",
+    "inflation_adjustment",
+    "wealth_inequality_metrics",
+    "background_sparklines",
+    "comprehensive_equivalencies"
+  ],
+  "data_quality": {
+    "total_records": 1889,
+    "missing_days": 0,
+    "data_quality_score": 0.95
+  },
+  "inflation_data": {
+    "cpi_u": {
+      "available": true,
+      "coverage_pct": 100.0,
+      "records": 1889
+    },
+    "pce": {
+      "available": true,
+      "coverage_pct": 100.0,
+      "records": 1889
+    }
+  },
+  "trend_analysis": {
+    "exponential_fit_r_squared": 0.9254754617727184,
+    "annual_growth_rate": 15.225160490897816,
+    "fit_period_days": 702
+  }
 }
